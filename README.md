@@ -1,4 +1,3 @@
-# Fresh-Seasons-Fresh-Garnishes[fresh_seasons_fresh_garnishes_culinary_artistry_guide.html](https://github.com/user-attachments/files/33974742/fresh_seasons_fresh_garnishes_culinary_artistry_guide.html)
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
